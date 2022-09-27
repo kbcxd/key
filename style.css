@@ -1,0 +1,30 @@
+body {
+	margin: 0;
+	background-color: #ccc;
+}
+
+header{
+	position: relative;
+	padding-left: 100px
+}
+
+nav{
+	position: absolute;
+	top: 0;
+	right: 100px;
+}
+
+.lists{
+	display: flex;
+	color: red;
+	list-style-type: none;
+	text-align: centepadding-right: 50px;r;
+	padding-right: 50px;
+}
+
+.list{
+	color: red;
+	padding-right: 50px;
+	font-weight: bold;
+	font-size: 20px;
+}
